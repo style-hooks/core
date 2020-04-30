@@ -19,7 +19,7 @@ using <a href='http://emotion.sh'>Emotion</a></h2>
   to any React function component.
 </p>
 <p align=center>
-  For a <code>styled-components</code>-like interface, check out <a href='https://github.com/jaredLunde/style-hooks/tree/master/packages/styled'>@style-hooks/styled</a>. 
+  For a <code>styled-components</code>-like interface, check out <a href='https://github.com/style-hooks/styled'>@style-hooks/styled</a>. 
 </p>
 
 ```jsx harmony
